@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap')
+
+.{
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  background-color: hsl(212, 45%, 89%);
+  font-family: 'Open Sans', sans-serif;
+  display: flex;
+  align-items: center;
+  font-size: 15px;
+   
+
+}
+
+.container {
+  background-color: hsl(0, 0%, 100%);
+  margin: 0px auto;
+  max-width: 350px;
+
+  
+}
+
+.card {
+  background-color: #fff;
+  padding: 9px;
+  border-radius: 10px;
+  margin: 0px 1rem;
+  
+
+
+}
+
+.photo {
+  border-radius: 10px;
+
+}
+
+.text {
+  text-align: center;
+  font-size: 15px;
+}
+
+.text h2 {
+  padding-bottom: 15px;
+}
+
+. text p {
+  padding: 15px;
+  color: green;
+}
